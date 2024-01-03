@@ -1,0 +1,5 @@
+linear run no caching or threading  2717.99 seconds
+linear run with caching 330.03 seconds
+linear run with attempted threading and caching 274.83 seconds 5 threadpool
+linear run with attempted threading and caching 274.83 seconds 10 threadpool
+liner run with threading and caching 108.83 seconds with 8 thread pool and new translator instance for each thread
